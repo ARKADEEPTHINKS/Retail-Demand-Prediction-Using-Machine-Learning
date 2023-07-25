@@ -1,6 +1,20 @@
 # Retail-Demand-Prediction-Using-Machine-Learning
 Predict the demand of packed items for each store to reduce overstocking and 
-understocking for the next week
+understocking for the next week.
+
+In this project there is a large offline retailer which is selling FMCG such as pretzels, pizzas, etc. 
+
+
+Business Problem: High business losses incurred by retailer.
+
+
+Business Objective: Prevent under stocking and over stocking of goods.
+
+
+Problem Statement: Forecast the demand for each product for individual stores to prevent over stocking and under stocking of items for the next week.
+
+Target Variable: Demand of products at each store.
+
 
 
 Data Description:

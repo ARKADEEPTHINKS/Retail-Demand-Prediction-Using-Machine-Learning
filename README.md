@@ -1,4 +1,7 @@
 # Retail-Demand-Prediction-Using-Machine-Learning
+
+DATASET : https://drive.google.com/drive/folders/13a06S-IwojX9eYEPlAVxX2ctvk_iJTLU?usp=sharing
+
 Predict the demand of packed items for each store to reduce overstocking and 
 understocking for the next week.
 
